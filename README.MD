@@ -27,7 +27,7 @@ El sitio web está desarrollado utilizando las siguientes tecnologías:
 
 ## Vista Previa
 
-Puedes ver una vista previa de mi sitio web en [Juan Grandío - Portfolio](https://www.juangrandio.com).
+Puedes ver mi sitio web en [Juan Grandío - Portfolio](https://www.juangrandio.com).
 
 ![Vista Previa](/images/screenshot.png)
 
