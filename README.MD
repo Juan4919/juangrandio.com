@@ -44,6 +44,6 @@ Puedes contribuir de las siguientes maneras:
 
 Si deseas contactarme, puedes hacerlo a través de:
 
-- Correo electrónico: [juan.grandio@example.com](mailto:juangm598@gmail.com)
+- Correo electrónico: [juangm598@gmail.com](mailto:juangm598@gmail.com)
 - LinkedIn: [Juan Grandío](https://www.linkedin.com/in/juangrandio/)
 - GitHub: [@juan4919](https://www.github.com/juan4919)
